@@ -13,3 +13,4 @@ for idx in range(2, n + m + 1):
 for idx, cnt in enumerate(sum_count_array):
     if cnt == max(sum_count_array):
         print(idx + 2, end=' ')
+

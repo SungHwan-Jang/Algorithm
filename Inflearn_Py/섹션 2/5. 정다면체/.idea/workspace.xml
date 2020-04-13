@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e69d7794-0aab-46d1-8579-84470a3dbd9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1. k번째 약수/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2. K번째 작은수/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2. K번째 작은수/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3. k번째 큰 수/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3. k번째 큰 수/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3. k번째 큰 수/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. 대표값/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. 대표값/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. 대표값/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/AA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +32,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.res">
+    <configuration name="res" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="5. 정다면체" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/res.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="5. 정다면체" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.res" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -87,22 +100,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="517" y="182" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586696460070" />
-    <state width="1244" height="208" key="GridCell.Tab.0.bottom" timestamp="1586697561004">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1586699248282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586697561004" />
-    <state width="1244" height="208" key="GridCell.Tab.0.center" timestamp="1586697561003">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586699248282" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1586699248282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586697561003" />
-    <state width="1244" height="208" key="GridCell.Tab.0.left" timestamp="1586697561003">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586699248282" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1586699248281">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586697561003" />
-    <state width="1244" height="208" key="GridCell.Tab.0.right" timestamp="1586697561004">
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586699248281" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1586699248282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586697561004" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586699248282" />
     <state x="246" y="70" key="SettingsEditor" timestamp="1586696463034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
