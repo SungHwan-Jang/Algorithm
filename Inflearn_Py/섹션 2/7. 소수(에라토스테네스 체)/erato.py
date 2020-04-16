@@ -10,26 +10,24 @@ st = time.time()
 
 def find_prime_number_count(x):
     num_lists = list(range(2, x + 1))
-    manipulated_num_list = []
+    i = 0
 
     while True:
-        i = 0
-        manipulated_num_list = []
-        manipulated_num_list.append(num_lists[i])
+        if i >= len(num_lists):
+            break
 
         for j in range(i + 1, len(num_lists)):
             if num_lists[j] % num_lists[i] == 0:
-                continue
+                num_lists[j] = 1
             else:
-                manipulated_num_list.append(num_lists[j])
+                continue
 
-        num_lists = manipulated_num_list.copy()
-        del manipulated_num_list
+        while 1 in num_lists:
+            num_lists.remove(1)
+
         i += 1
 
-        if i > x:
-            break
-    return
+    return len(num_lists)
 
 
 print(find_prime_number_count(num))
