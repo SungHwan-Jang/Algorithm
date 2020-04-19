@@ -1,7 +1,3 @@
-import sys
-
-sys.stdin = open('in4.txt', 'rt')
-
 n = int(input())
 samples = [list(map(int, input().split())) for _ in range(n)]
 matrix = []
@@ -17,8 +13,6 @@ for i in range(n + 2):
         tmp.extend(samples[i - 1])
         tmp.append(0)
         matrix.append(tmp)
-
-print(matrix)
 
 for i in range(1, n + 1):
     for j in range(1, n + 1):

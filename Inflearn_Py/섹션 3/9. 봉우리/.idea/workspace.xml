@@ -2,55 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78bc1d6d-62c4-4b53-9318-1ea9f43eb61e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../섹션 2/10. 점수 계산/.idea/10. 점수 계산.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../섹션 2/10. 점수 계산/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../섹션 2/10. 점수 계산/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../섹션 2/10. 점수 계산/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. 회문 문자열 검사/.idea/1. 회문 문자열 검사.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. 회문 문자열 검사/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. 회문 문자열 검사/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. 회문 문자열 검사/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2. 숫자만 추출/.idea/2. 숫자만 추출.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2. 숫자만 추출/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2. 숫자만 추출/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2. 숫자만 추출/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3. 카드 역배치/.idea/3. 카드 역배치.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3. 카드 역배치/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3. 카드 역배치/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3. 카드 역배치/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. 두 리스트 합치기/.idea/4. 두 리스트 합치기.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. 두 리스트 합치기/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. 두 리스트 합치기/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. 두 리스트 합치기/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5. 수들의 합/.idea/5. 수들의 합.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5. 수들의 합/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5. 수들의 합/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5. 수들의 합/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5. 수들의 합/test_optimize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6. 격자판 최대합/.idea/6. 격자판 최대합.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6. 격자판 최대합/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6. 격자판 최대합/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6. 격자판 최대합/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/.idea/7. 사과나무.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. 사과나무/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/.idea/8. 곳감.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/AA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8. 곳감/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/in1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,38 +79,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="488" y="170" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587119829436" />
-    <state width="1244" height="196" key="GridCell.Tab.0.bottom" timestamp="1587126639937">
+    <state width="1244" height="244" key="GridCell.Tab.0.bottom" timestamp="1587129979751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126639937" />
-    <state width="1244" height="196" key="GridCell.Tab.0.center" timestamp="1587126639937">
+    <state width="1244" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979751" />
+    <state width="1244" height="244" key="GridCell.Tab.0.center" timestamp="1587129979751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="196" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126639937" />
-    <state width="1244" height="196" key="GridCell.Tab.0.left" timestamp="1587126639937">
+    <state width="1244" height="244" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979751" />
+    <state width="1244" height="244" key="GridCell.Tab.0.left" timestamp="1587129979750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="196" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126639937" />
-    <state width="1244" height="196" key="GridCell.Tab.0.right" timestamp="1587126639937">
+    <state width="1244" height="244" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979750" />
+    <state width="1244" height="244" key="GridCell.Tab.0.right" timestamp="1587129979751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="196" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126639937" />
-    <state width="1244" height="244" key="GridCell.Tab.1.bottom" timestamp="1587126422970">
+    <state width="1244" height="244" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979751" />
+    <state width="1244" height="244" key="GridCell.Tab.1.bottom" timestamp="1587129979751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="244" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126422970" />
-    <state width="1244" height="244" key="GridCell.Tab.1.center" timestamp="1587126422970">
+    <state width="1244" height="244" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979751" />
+    <state width="1244" height="244" key="GridCell.Tab.1.center" timestamp="1587129979751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="244" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126422970" />
-    <state width="1244" height="244" key="GridCell.Tab.1.left" timestamp="1587126422969">
+    <state width="1244" height="244" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979751" />
+    <state width="1244" height="244" key="GridCell.Tab.1.left" timestamp="1587129979751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="244" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126422969" />
-    <state width="1244" height="244" key="GridCell.Tab.1.right" timestamp="1587126422970">
+    <state width="1244" height="244" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979751" />
+    <state width="1244" height="244" key="GridCell.Tab.1.right" timestamp="1587129979751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1244" height="244" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587126422970" />
+    <state width="1244" height="244" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587129979751" />
     <state x="217" y="57" key="SettingsEditor" timestamp="1587119832514">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -164,5 +119,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="399" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587119808190" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="matrix[i+k][j]" language="Python" />
+        <watch expression="matrix[i][j + k]" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
