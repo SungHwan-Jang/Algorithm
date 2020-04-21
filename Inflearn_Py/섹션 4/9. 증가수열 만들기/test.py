@@ -1,6 +1,6 @@
-# import sys
-#
-# sys.stdin = open('in5.txt', 'rt')
+import sys
+
+sys.stdin = open('in5.txt', 'rt')
 
 N = int(input())
 sequence = list(map(int, input().split()))
