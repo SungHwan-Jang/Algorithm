@@ -1,6 +1,6 @@
-import sys
-
-sys.stdin = open('test.txt', 'rt')
+# import sys
+#
+# sys.stdin = open('test.txt', 'rt')
 N = int(input())
 reverse_seq = list(map(int, input().split()))
 
