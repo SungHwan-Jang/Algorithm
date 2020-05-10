@@ -1,6 +1,6 @@
-# import sys
-#
-# sys.stdin = open("test.txt", "rt")
+import sys
+
+sys.stdin = open("test.txt", "rt")
 
 N = int(input())
 samples = list(map(int, input().split()))

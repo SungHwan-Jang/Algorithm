@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab1284fd-7013-4c42-b713-43af0bb5eb3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/10. 최소힙/.idea/10. 최소힙.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/10. 최소힙/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/10. 최소힙/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/2. 쇠막대기/.idea/2. 쇠막대기.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/2. 쇠막대기/AA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/2. 쇠막대기/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/2. 쇠막대기/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/3. 후위표기식 만들기/.idea/3. 후위표기식 만들기.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/3. 후위표기식 만들기/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/3. 후위표기식 만들기/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/4. 후위식 연산/.idea/4. 후위식 연산.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/4. 후위식 연산/AA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/4. 후위식 연산/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/4. 후위식 연산/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/5. 공주구하기/.idea/5. 공주구하기.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/5. 공주구하기/AA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/5. 공주구하기/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/5. 공주구하기/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/6. 응급실/.idea/6. 응급실.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/6. 응급실/AA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/6. 응급실/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/6. 응급실/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/7. 교육과정 설계/.idea/7. 교육과정 설계.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/7. 교육과정 설계/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/7. 교육과정 설계/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/8. 단어찾기/.idea/8. 단어찾기.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/8. 단어찾기/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/8. 단어찾기/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/9. 아나그램(구글)/.idea/9. 아나그램(구글).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/9. 아나그램(구글)/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../섹션 5/9. 아나그램(구글)/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1. 재귀함수란(이진수출력).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recur_learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../섹션 5/7. 교육과정 설계/AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../섹션 5/7. 교육과정 설계/AA.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1bhmfzAcZl3bEgZpetJgCBiVTSF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="recur_learn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1. 재귀함수란(이진수출력)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recur_learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1. 재귀함수란(이진수출력)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.recur_learn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab1284fd-7013-4c42-b713-43af0bb5eb3e" name="Default Changelist" comment="" />
+      <created>1589092807676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589092807676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1589092849471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589092849471" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1589107046222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046222" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1589107046222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046222" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1589107046222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046222" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1589107046222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046222" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1589107046223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046223" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1589107046223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046223" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1589107046223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046223" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1589107046223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589107046223" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589106961326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589106961326" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589092813015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589092813015" />
+  </component>
+</project>
